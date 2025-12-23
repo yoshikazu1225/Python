@@ -9,3 +9,4 @@ y = np.random.rand(10) # y を作成
 #グラフ描写
 plt.plot(x, y) # 折れ線グラフを登録
 plt.show() # グラフ表示
+
